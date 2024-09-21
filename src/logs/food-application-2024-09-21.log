@@ -1,0 +1,16 @@
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-21 11:12:57 AM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-21 11:12:57 AM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-21 11:12:57 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-21T05:42:57.472Z","email":"abec3e4d@gmail.com","firstName":"abc","id":"b06593c4-2e07-4711-98e3-2a45931465a0","isActive":true,"lastName":"def","password":"$2a$08$lVveHFSvF0IgyaTAJUCx3OFo4BYnw7NC2SPIXxim2FuW9yIfjVVp.","phoneNumber":"9894834767750","profileImage":null,"updatedAt":"2024-09-21T05:42:57.474Z","username":"abcdd45f6e"}},"operation":"database insertion"},"timestamp":"2024-09-21 11:12:57 AM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-21 11:12:57 AM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-21 11:16:20 AM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-21 11:16:20 AM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-21 11:16:20 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-21T05:46:20.101Z","email":"abec3e4d@gmail.com","firstName":"abc","id":"c3cc28bf-884c-46bb-8643-a28c0b1804dc","isActive":true,"lastName":"def","password":"$2a$08$tDCeL8VXdNwZk2ucfM0Z6.2tYOplhM4N8KipDVI8W5nahNFJLi6Qm","phoneNumber":"9894834767750","profileImage":null,"updatedAt":"2024-09-21T05:46:20.104Z","username":"abcdd45f6e"}},"operation":"database insertion"},"timestamp":"2024-09-21 11:16:20 AM"}
+{"level":"info","message":{"data":{"userRole":{"createdAt":"2024-09-21T05:46:20.158Z","role_id":1,"updatedAt":"2024-09-21T05:46:20.159Z","user_id":"c3cc28bf-884c-46bb-8643-a28c0b1804dc"}},"operation":"database insertion"},"timestamp":"2024-09-21 11:16:20 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-21 11:22:45 AM"}
+{"level":"info","message":{"data":{"user":null},"operation":"database query"},"timestamp":"2024-09-21 11:22:45 AM"}
+{"level":"error","message":{"error":"User doesn't exist, Please login!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-21 11:22:45 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-21 11:23:01 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abec3e4d@gmail.com","firstName":"abc","id":"c3cc28bf-884c-46bb-8643-a28c0b1804dc","lastName":"def","password":"$2a$08$tDCeL8VXdNwZk2ucfM0Z6.2tYOplhM4N8KipDVI8W5nahNFJLi6Qm","username":"abcdd45f6e"}},"operation":"database query"},"timestamp":"2024-09-21 11:23:01 AM"}
+{"level":"info","message":{"data":{"userRole":{"createdAt":"2024-09-21T05:46:20.158Z","role_id":1,"updatedAt":"2024-09-21T05:46:20.159Z","user_id":"c3cc28bf-884c-46bb-8643-a28c0b1804dc"}},"operation":"database selection"},"timestamp":"2024-09-21 11:23:01 AM"}

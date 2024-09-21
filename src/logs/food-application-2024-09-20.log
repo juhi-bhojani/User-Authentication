@@ -1,0 +1,191 @@
+{"level":"info","message":"Incoming request at / and method GET","timestamp":"2024-09-20 10:05:02 AM"}
+{"level":"info","message":"Incoming request at /favicon.ico and method GET","timestamp":"2024-09-20 10:05:03 AM"}
+{"level":"info","message":{"incoming_request":"/","method":"GET"},"timestamp":"2024-09-20 10:06:05 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:47:46 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 10:47:46 AM"}
+{"level":"error","message":{"error":"Unable to authenticate!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:47:46 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:48:25 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 10:48:25 AM"}
+{"level":"error","message":{"error":"Unable to authenticate!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:48:25 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:48:46 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 10:48:46 AM"}
+{"level":"error","message":{"error":"Unable to authenticate!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:48:46 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:49:17 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 10:49:17 AM"}
+{"level":"error","message":{"error":"Unable to authenticate!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:49:17 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:49:43 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 10:49:43 AM"}
+{"level":"error","message":{"error":"Unable to authenticate!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:49:43 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:51:57 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 10:51:57 AM"}
+{"level":"error","message":{"error":"Unable to authenticate!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:51:58 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:54:43 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 10:54:43 AM"}
+{"level":"error","message":{"error":"Unable to authenticate!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:54:43 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:55:05 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 10:55:05 AM"}
+{"level":"error","message":{"error":"Unable to authenticate!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:55:05 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:55:21 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 10:55:21 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:55:52 AM"}
+{"level":"info","message":{"data":{"user":{"username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 10:55:52 AM"}
+{"level":"error","message":{"error":"Illegal arguments: string, undefined","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:55:52 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:57:42 AM"}
+{"level":"info","message":{"data":{"user":{"firstName":"abc"}},"operation":"database query"},"timestamp":"2024-09-20 10:57:42 AM"}
+{"level":"error","message":{"error":"Illegal arguments: string, undefined","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:57:42 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:58:17 AM"}
+{"level":"info","message":{"data":{"user":{"firstName":"abc"}},"operation":"database query"},"timestamp":"2024-09-20 10:58:17 AM"}
+{"level":"error","message":{"error":"Illegal arguments: string, undefined","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:58:17 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:58:53 AM"}
+{"level":"info","message":{"data":{"user":{"firstName":"abc"}},"operation":"database query"},"timestamp":"2024-09-20 10:58:53 AM"}
+{"level":"error","message":{"error":"Illegal arguments: string, undefined","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:58:53 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:59:29 AM"}
+{"level":"info","message":{"data":{"user":{"firstName":"abc"}},"operation":"database query"},"timestamp":"2024-09-20 10:59:29 AM"}
+{"level":"error","message":{"error":"Illegal arguments: string, undefined","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 10:59:29 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:00:25 AM"}
+{"level":"info","message":{"data":{"user":{"firstName":"abc"}},"operation":"database query"},"timestamp":"2024-09-20 11:00:25 AM"}
+{"level":"error","message":{"error":"Illegal arguments: string, undefined","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:00:25 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:01:16 AM"}
+{"level":"info","message":{"data":{"user":{"firstName":"abc"}},"operation":"database query"},"timestamp":"2024-09-20 11:01:16 AM"}
+{"level":"error","message":{"error":"Illegal arguments: string, undefined","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:01:16 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:01:54 AM"}
+{"level":"info","message":{"data":{"user":{"firstName":"abc"}},"operation":"database query"},"timestamp":"2024-09-20 11:01:54 AM"}
+{"level":"error","message":{"error":"Illegal arguments: string, undefined","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:01:54 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:02:13 AM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:02:13 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:03:22 AM"}
+{"level":"info","message":{"data":{"user":{"firstName":"abc","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O"}},"operation":"database query"},"timestamp":"2024-09-20 11:03:22 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:04:12 AM"}
+{"level":"info","message":{"data":{"user":{"firstName":"abc","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O"}},"operation":"database query"},"timestamp":"2024-09-20 11:04:12 AM"}
+{"level":"error","message":{"error":"Unable to authenticate!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:04:12 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:05:11 AM"}
+{"level":"info","message":{"data":{"user":{"firstName":"abc","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O"}},"operation":"database query"},"timestamp":"2024-09-20 11:05:11 AM"}
+{"level":"error","message":{"error":"Unable to authenticate!","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:05:11 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:05:43 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:05:43 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:08:08 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:08:09 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:09:26 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:09:26 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:09:57 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:09:57 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:10:17 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:10:17 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:10:28 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:10:28 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:11:00 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:11:00 AM"}
+{"level":"error","message":{"error":"Cannot read properties of undefined (reading 'firstName')","incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:11:00 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:11:08 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:11:08 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:11:22 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:11:22 AM"}
+{"level":"info","message":{"incoming_request":"/login","method":"POST"},"timestamp":"2024-09-20 11:14:13 AM"}
+{"level":"info","message":{"data":{"user":{"email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","username":"abcd"}},"operation":"database query"},"timestamp":"2024-09-20 11:14:13 AM"}
+{"level":"info","message":{"incoming_request":"/","method":"GET"},"timestamp":"2024-09-20 11:49:55 AM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:00:21 PM"}
+{"level":"error","message":{"error":"Unable to fetch user currently, please try later","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:00:21 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:00:58 PM"}
+{"level":"error","message":{"error":"Unable to fetch user currently, please try later","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:00:58 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:01:50 PM"}
+{"level":"info","message":{"data":{"user":[{"createdAt":"2024-09-19T11:39:20.745Z","email":"abc@gmail.com","firstName":"abc","id":"23ae968e-072d-4384-abb7-6b44a2a36422","isActive":true,"lastName":"def","password":"$2a$08$WDQU1JujSFCg3mHLC/RQ0u/0XCiT4wfihM/ZoIgiLT/ZIGvjNTa.O","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-19T11:39:20.746Z","username":"abcd"}]},"operation":"database query"},"timestamp":"2024-09-20 12:01:50 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:02:15 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:02:15 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:02:15 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T06:32:15.788Z","email":"abc@gmail.com","firstName":"abc","id":"b47fcf91-e547-4daa-bc42-e15b3f4dffe6","isActive":true,"lastName":"def","password":"$2a$08$c7n52ann7f5lXXW1LLB4DOyV56O7itZ7r9gLrP5jx5SOSXyA3T0zi","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T06:32:15.789Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 12:02:15 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:02:15 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:05:41 PM"}
+{"level":"info","message":{"data":{"user":[{"createdAt":"2024-09-20T06:32:15.788Z","email":"abc@gmail.com","firstName":"abc","id":"b47fcf91-e547-4daa-bc42-e15b3f4dffe6","isActive":true,"lastName":"def","password":"$2a$08$c7n52ann7f5lXXW1LLB4DOyV56O7itZ7r9gLrP5jx5SOSXyA3T0zi","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T06:32:15.789Z","username":"abcd"}]},"operation":"database query"},"timestamp":"2024-09-20 12:05:41 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:06:06 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:06:06 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:06:06 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T06:36:06.349Z","email":"abc@gmail.com","firstName":"abc","id":"93febbcc-98f8-4bc8-b81d-9f1be4830374","isActive":true,"lastName":"def","password":"$2a$08$NNA3WcVTkmA2tHG3wxYPQeHQreMQbxMFztq/a6x.1yMfkSlS/5idi","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T06:36:06.351Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 12:06:06 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:06:06 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:41:58 PM"}
+{"level":"info","message":{"data":{"user":[{"createdAt":"2024-09-20T06:36:06.349Z","email":"abc@gmail.com","firstName":"abc","id":"93febbcc-98f8-4bc8-b81d-9f1be4830374","isActive":true,"lastName":"def","password":"$2a$08$NNA3WcVTkmA2tHG3wxYPQeHQreMQbxMFztq/a6x.1yMfkSlS/5idi","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T06:36:06.351Z","username":"abcd"}]},"operation":"database query"},"timestamp":"2024-09-20 12:41:58 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:42:16 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:42:16 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:42:16 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T07:12:16.645Z","email":"abc@gmail.com","firstName":"abc","id":"5a6ccccc-c78f-4699-a546-31e8aef0ac1f","isActive":true,"lastName":"def","password":"$2a$08$FLoxHELfCG.XWHlwNcd3W.DPaqan5pLSZTjUzpE5IMdSCZAU2/0Ce","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T07:12:16.647Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 12:42:16 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:42:16 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:44:52 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:44:52 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:44:52 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T07:14:52.164Z","email":"abc@gmail.com","firstName":"abc","id":"ff8e0f04-e806-457c-91f4-cceaaffd5bba","isActive":true,"lastName":"def","password":"$2a$08$LuuXURB1MXgujVRAdeOoOuBslgo2N4RROk..9nXCNBEE8ijzqMunW","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T07:14:52.167Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 12:44:52 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:44:52 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:45:53 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:45:53 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:45:53 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T07:15:53.322Z","email":"abc@gmail.com","firstName":"abc","id":"ba341c4c-b708-4cf7-ab92-ce316a14ee78","isActive":true,"lastName":"def","password":"$2a$08$zDHhpHkVqGAZ.GJbrh1V3e4tbfyFE6s3t5ovEdRrSEhsrlfnooL36","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T07:15:53.325Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 12:45:53 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:45:53 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:50:03 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:50:03 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 12:50:03 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T07:20:03.151Z","email":"abc@gmail.com","firstName":"abc","id":"e703e27e-7ef1-41e7-83c1-04b2d1276421","isActive":true,"lastName":"def","password":"$2a$08$LPFJvmM3CT/sTTdMuxklqegw5jOPuOlmRz15qLDbGgDB5Koex4ikS","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T07:20:03.153Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 12:50:03 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 12:50:03 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 02:14:11 PM"}
+{"level":"info","message":{"data":{"user":[{"createdAt":"2024-09-20T07:20:03.151Z","email":"abc@gmail.com","firstName":"abc","id":"e703e27e-7ef1-41e7-83c1-04b2d1276421","isActive":true,"lastName":"def","password":"$2a$08$LPFJvmM3CT/sTTdMuxklqegw5jOPuOlmRz15qLDbGgDB5Koex4ikS","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T07:20:03.153Z","username":"abcd"}]},"operation":"database query"},"timestamp":"2024-09-20 02:14:11 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 02:14:30 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 02:14:30 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 02:14:30 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T08:44:30.654Z","email":"abc@gmail.com","firstName":"abc","id":"2d83f038-b3ba-4e76-9775-c621f2f9f244","isActive":true,"lastName":"def","password":"$2a$08$W3b6O3sz.FBEf1EuDGS50ePqpZHzl0Ell9T8t7XoBhqwk.uaNMAtC","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T08:44:30.656Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 02:14:30 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 02:14:30 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 02:16:12 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 02:16:12 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 02:16:12 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T08:46:12.199Z","email":"abc@gmail.com","firstName":"abc","id":"6f287429-5469-4d60-9c17-5c2170b9f859","isActive":true,"lastName":"def","password":"$2a$08$7Sx1TWGS5CzqzGc41ehzbuxHV61tXBS.Zq.ckmfOxsYleYR.cuSZ.","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T08:46:12.202Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 02:16:12 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 02:16:12 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 02:16:46 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 02:16:46 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 02:16:46 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T08:46:46.673Z","email":"abc@gmail.com","firstName":"abc","id":"4af1953c-46fc-432f-85f5-3f6cd204d612","isActive":true,"lastName":"def","password":"$2a$08$WlVDAwEaHYGz2gsSrTrDceWhtIVkoqKvrLILGXiiYbSajR0Vz.YAG","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T08:46:46.675Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 02:16:46 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 02:16:46 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:10:15 PM"}
+{"level":"info","message":{"data":{"user":[{"createdAt":"2024-09-20T08:46:46.673Z","email":"abc@gmail.com","firstName":"abc","id":"4af1953c-46fc-432f-85f5-3f6cd204d612","isActive":true,"lastName":"def","password":"$2a$08$WlVDAwEaHYGz2gsSrTrDceWhtIVkoqKvrLILGXiiYbSajR0Vz.YAG","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T08:46:46.675Z","username":"abcd"}]},"operation":"database query"},"timestamp":"2024-09-20 06:10:15 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:10:28 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:10:28 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:10:28 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T12:40:28.789Z","email":"abc@gmail.com","firstName":"abc","id":"c3de245a-fcd2-4eb2-bb7f-dc1d33dbfb3d","isActive":true,"lastName":"def","password":"$2a$08$QyOaIhhtLhfRQybWI680q.a9fO0Rc725DKqLqyKkseQ6Iks7avptS","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T12:40:28.790Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 06:10:28 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:10:28 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:11:02 PM"}
+{"level":"info","message":{"data":{"user":[{"createdAt":"2024-09-20T12:40:28.789Z","email":"abc@gmail.com","firstName":"abc","id":"c3de245a-fcd2-4eb2-bb7f-dc1d33dbfb3d","isActive":true,"lastName":"def","password":"$2a$08$QyOaIhhtLhfRQybWI680q.a9fO0Rc725DKqLqyKkseQ6Iks7avptS","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T12:40:28.790Z","username":"abcd"}]},"operation":"database query"},"timestamp":"2024-09-20 06:11:02 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:12:02 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:12:02 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:12:02 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T12:42:02.508Z","email":"abc@gmail.com","firstName":"abc","id":"9fef1062-ae6b-49ac-a480-c4bff0f37f3d","isActive":true,"lastName":"def","password":"$2a$08$go5xkkeMPQ33bDWidMzaW.hTsa1WbCF1bhF4x7Gm9r6vucK7TiURu","phoneNumber":"98987677","profileImage":null,"updatedAt":"2024-09-20T12:42:02.510Z","username":"abcd"}},"operation":"database insertion"},"timestamp":"2024-09-20 06:12:02 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:12:02 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:12:47 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:12:47 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:12:47 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T12:42:47.795Z","email":"abcd@gmail.com","firstName":"abc","id":"3c81eeb3-389e-43a5-a2b2-de96efee549b","isActive":true,"lastName":"def","password":"$2a$08$GgbfyVIW5PjCpxd9mfs42Ooz/ZFcYEkEtbqGW7GYjSAhrwicjr9OO","phoneNumber":"989876770","profileImage":null,"updatedAt":"2024-09-20T12:42:47.798Z","username":"abcde"}},"operation":"database insertion"},"timestamp":"2024-09-20 06:12:47 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:12:47 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:17:14 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:17:14 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:17:14 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T12:47:14.046Z","email":"abcd@gmail.com","firstName":"abc","id":"0776000e-3d9e-4a32-ac38-aa6122d4fb20","isActive":true,"lastName":"def","password":"$2a$08$m1CS97TFKmgCz3Qy8xd2LuvJ5kTBXJ0ZKeQNYQfAeCO6.r6jweEmW","phoneNumber":"989876770","profileImage":null,"updatedAt":"2024-09-20T12:47:14.050Z","username":"abcde"}},"operation":"database insertion"},"timestamp":"2024-09-20 06:17:14 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:17:14 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:22:03 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:22:03 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:22:03 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T12:52:03.220Z","email":"abced@gmail.com","firstName":"abc","id":"9bba8e03-522d-477b-a55f-9e4423cfe516","isActive":true,"lastName":"def","password":"$2a$08$H8GdCL8MqyCrayKXEFqoAeDigAgBi3iPGcO7UtOswI.BpuNRdglaW","phoneNumber":"9898767750","profileImage":null,"updatedAt":"2024-09-20T12:52:03.222Z","username":"abcd56e"}},"operation":"database insertion"},"timestamp":"2024-09-20 06:22:03 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:22:03 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:25:21 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:25:21 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:25:21 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T12:55:21.907Z","email":"abeced@gmail.com","firstName":"abc","id":"e01afdbb-378c-4255-8b1a-d6b68d4264e3","isActive":true,"lastName":"def","password":"$2a$08$GXNiXm0kajUl9Am2iqGqvePKTDm116keo9p9WwKWja7LxvcecN2Nq","phoneNumber":"98984767750","profileImage":null,"updatedAt":"2024-09-20T12:55:21.909Z","username":"abcdd56e"}},"operation":"database insertion"},"timestamp":"2024-09-20 06:25:21 PM"}
+{"level":"error","message":{"error":"Unable to create new user at the moment","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:25:21 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:28:40 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:28:40 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:28:40 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T12:58:40.817Z","email":"abec3ed@gmail.com","firstName":"abc","id":"0034e202-1b1d-4e10-8fa8-06a326d7ca72","isActive":true,"lastName":"def","password":"$2a$08$QXbwi.YGUj4KN/hSgR4BTeGySxz2J2DrWhOi400VLhOad4xffhE.2","phoneNumber":"989834767750","profileImage":null,"updatedAt":"2024-09-20T12:58:40.819Z","username":"abcdd5f6e"}},"operation":"database insertion"},"timestamp":"2024-09-20 06:28:40 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:28:40 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:29:04 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:29:04 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:29:04 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T12:59:04.632Z","email":"abec3e4d@gmail.com","firstName":"abc","id":"70a5920f-5c54-4674-ac64-54e132b972ef","isActive":true,"lastName":"def","password":"$2a$08$rrTE2Ayb56Y9S1m/ugG97e8AvMfyJ9Uf1TOGLvhh3Fgh9.KBDXN7O","phoneNumber":"9894834767750","profileImage":null,"updatedAt":"2024-09-20T12:59:04.636Z","username":"abcdd45f6e"}},"operation":"database insertion"},"timestamp":"2024-09-20 06:29:04 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:29:04 PM"}
+{"level":"info","message":{"incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:30:04 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:30:04 PM"}
+{"level":"info","message":{"data":{"user":[]},"operation":"database query"},"timestamp":"2024-09-20 06:30:04 PM"}
+{"level":"info","message":{"data":{"user":{"createdAt":"2024-09-20T13:00:04.824Z","email":"abec3e4d@gmail.com","firstName":"abc","id":"1d898fae-5626-4475-9300-73d05cb83dc1","isActive":true,"lastName":"def","password":"$2a$08$cVsCdIGosBYFunbYiLNdsOciUciP20UnClOh2YCvijWk8sv9bUOBe","phoneNumber":"9894834767750","profileImage":null,"updatedAt":"2024-09-20T13:00:04.827Z","username":"abcdd45f6e"}},"operation":"database insertion"},"timestamp":"2024-09-20 06:30:04 PM"}
+{"level":"error","message":{"error":"Unable to identify user","incoming_request":"/user","method":"POST"},"timestamp":"2024-09-20 06:30:04 PM"}

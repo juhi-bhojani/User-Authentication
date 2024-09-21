@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/juhi/Techs/user-auth/src/logs/.dd9d1e139bf991a3f78c2f578120a8d888cbd40e-audit.json",
+    "files": [
+        {
+            "date": 1726806898698,
+            "name": "/home/juhi/Techs/user-auth/src/logs/food-application-2024-09-20.log",
+            "hash": "ba6f476dd1bd19c85bdb9d11766dd4cb2be9ba1edce8fc2a7ea0ccbcbf14851b"
+        },
+        {
+            "date": 1726897347282,
+            "name": "/home/juhi/Techs/user-auth/src/logs/food-application-2024-09-21.log",
+            "hash": "8b4f8cc7fa8cc3bff16a719ed3658147bce54d87c855bcc4a6022971dc28b665"
+        }
+    ],
+    "hashType": "sha256"
+}
